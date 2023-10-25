@@ -1,0 +1,238 @@
+Start Date : 05 Sept, 2023 on Monday to Thursday
+
+Timing: 9PM-11PM IST (Doubt Solving After 11pm)
+
+This is an online Live 6 months Java course which will be held only on weekdays.
+
+What you will get :
+
+Recordings of each LIVE classes (after it is conducted)
+Recorded courses like : DSA, Git, Docker, Cloud, Microservice 
+Certificate after successfully attending the classes and completing assignments
+Notes
+Assignments
+Quiz
+What you will Learn :
+
+Java Fundamentals:-
+           Introduction to Java
+           How Java Made Portable(WORA)
+           Main method
+           Statically vs Dynamically typed
+           Variables and Datatypes
+           Type Casting and Truncation
+           Identifiers and Naming Convention
+           Operators
+           Increment and Decrement
+           Conditional statement
+           Loops
+           Scanner class (console user input)
+
+Object-oriented programming (OOPs):-
+           Classes and Object
+           JVM data areas
+           Instance variable vs local variables
+           Method overloading
+           Wrapper classes
+           Encapsulation
+           This keyword
+           Constructor 
+           Static keyword Introduction
+           Class loading
+           Inheritance
+           Package and Access modifiers
+           Polymorphism
+           Abstraction and abstract keyword
+           Final keyword
+
+Array:-
+           Why an array?
+           Creating An Array
+           Different ways to create an array
+           2D Regular Array
+           2D Jagged Array
+           Enhanced For Loop
+           Anonymous Array
+           ArrayIndexOutOfBoundsException
+           Disadvantages of Array 
+
+Strings :-
+          String Introduction
+          Types of String
+          Immutable String and Memory Map
+          Ways to compare
+          String Concatenation
+          Inbuilt methods in String class
+          Introduction to Mutable String
+          Final vs Immutability
+          More on Mutable String
+          StringBuffer vs StringBuilder
+
+Interface and Lambda Expression:-
+         What is interface?
+         Interface Implementation
+         Need Of Interface With Example
+         Important key points of Interface
+         Abstract Vs Interface
+         Java 8 Features
+         Functional Interface
+         Inner class
+         Anonymous inner class
+         Lambda Expression
+
+Exception Handling:-
+         Different types of Errors
+         What is an Exception?
+         try catch
+         Multiple catch block
+         Handling vs Ducking an Exception
+         throw, throws, finally
+         Custom Exception
+         Hierarchy of an Exception class
+         try with Resources
+
+Multithreading:-
+        Thread
+        Need of Multiple Threads
+        Main Thread in Java
+        How to create Threads
+        More on creating Multiple Threads
+        Thread vs Runnable
+        States of Thread
+        join() and isAlive() methods
+        interrupt() method
+        Synchronisation in Java
+        Dead lock
+        Producer - Consumer problem
+
+Collection :-
+        Why Collection ?
+        Collection Hierarchy
+        ArrayList
+        LinkedList
+        ArrayDeque
+        PriorityQueue
+        TreeSet
+        HashSet
+        LinkedHashSet
+        Iterator , List Iterator
+        Legacy classes and Enumeration
+        Introduction to Map in Java
+        Map Hierarchy
+        HashMap
+
+File Handling:-
+        Input Stream
+        Output Stream
+        File Operation
+        Serialisation
+        Deserialisation
+
+
+Database:-
+
+        Basic Concepts of DBMS
+        Exploring Relational DBMS
+        Introduction to SQL
+        DDL and DML Statements
+        CRUD operations
+        Working with Constraints
+        Joins and Set Operations
+
+  Java Database Connectivity (JDBC):-
+        Introduction to JDBC
+        Steps followed to write JDBC Code
+        Basics of JDBC
+        Deep dive into JDBC 
+
+
+Servlet:- 
+
+       Client Server Architecture
+       Different types of Server a. web server b. application server
+       Need of Servlet and Different ways of Creating a Servlet
+       First Servlet
+       Servlet life cycle
+       Annotation support
+       Difference b/w ServletConfig vs ServletContext object
+       HttpServletRequest, HttpServletResponse
+       RequestDispatching
+       Filters, Listeners
+       MVC ( Model-View-Controller)
+       Servlet Application with MVC Design Pattern
+
+Hibernate:-
+
+        Limitation of JDBC
+        Need of ORM
+        Hibernate Features
+        Hibernate Architecture
+        Steps to prepare First Hibernate Application
+        Hibernate Persistence Object Lifecycle
+        Connection Pooling in Hibernate
+        Working with Date and Time Operation
+        Working with HQL,NativeSQL in hibernate
+        Caching in hibernate
+
+Spring Core and Spring Boot:-
+
+        What is Spring Framework
+        What is Spring Boot
+        Differences between Spring & Spring Boot
+        IOC container
+        Dependency Injection a) Setter Injection b) Constructor Injection c)                                       Field Injection
+        Stereotype Annotations a) @Component b) @Service c) @Repository                                   d) @Controller
+        Spring Boot Overview
+        Pros & Cons of Spring Boot
+        Approaches to create Spring Boot Application
+        Application with Spring Boot
+
+Spring DataJPA:-
+
+        Spring Data JPA Introduction
+        Differences between Spring ORM and Spring Data JPA
+        Working with CurdRepository
+        Working with PagingAndRepository
+        Working with JpaRepository
+
+Spring Web MVC:-
+
+        Spring Web MVC Introduction
+        Spring MVC Architecture
+        Introduction to Front Controller(DispatcherServlet)
+        Handler Mappers
+        Controllers
+        View Resolvers
+        Web Application development using Spring Boot
+        Sending Data From UI to Controller
+        a) Query Param b) Path Param
+        Sending Data From Controller to UI a) Model b) ModelAndView
+        Spring MVC Form Tag library
+        Form Based application development using Spring Boot
+
+Spring REST:-
+
+        Spring Rest
+       Usage of xml and Json in Rest
+       Need of JAX-RS API
+       Introduction to SpringRest and its annotations
+       Usage of Postman tool to test the API
+       Usage of Swagger api
+       Usage of RestTemplate and RestClient
+       Usage of RequestParam and PathVariable
+
+Recorded syllabus 
+
+      DSA
+
+      Git
+
+      Docker 
+
+      Cloud 
+
+      Microservices
+
+ Whom this course for :
+
+ Anyone who has interest and wants to learn this beautiful language!
